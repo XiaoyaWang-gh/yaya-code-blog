@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+sophia39
+db.sqlite3
+.DS_Store
